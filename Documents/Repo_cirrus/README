@@ -1,0 +1,15 @@
+
+The AWI*_cirrus_retrieval project has been developed for deriving the geometrical and optical properties of cirrus clouds. The algoritms are applicable to lidar data. The project consists of three matlab routines:
+- cirrus_detection.m
+- config_constrained_Klett.m
+- constrained_Klett.m
+
+The algorithms may need to be modified according to your needs and lidar system specifications (e.g. vertical resolution)
+
+The content of matlab functions needs to be uncommented. The input and output parameters of each function are described in detail within each matlab routine.  
+
+In case of any questions regarding the algorithms, please send us an e-mail at christoph.ritter@awi.de or konstantina.nakoudi@awi.de.
+
+If you wish to apply the algorithm on data from your lidar site, we will be happy to know about the outcome.
+
+*AWI (Alfred Wegener Institute)
